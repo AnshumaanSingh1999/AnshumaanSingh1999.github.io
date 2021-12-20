@@ -50,18 +50,6 @@ border-color: darkslategrey;
   height: 95.65%;
   margin: 0;
 }
-      .bg {
-  /* The image used */
-  background-image:url(pictures/MAC35_AMERICA_POLITICS_CAROUSEL01.jpg);
-
-  /* Full height */
-  height: 100%; 
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
           .centre{
               text-align: center;
           }
